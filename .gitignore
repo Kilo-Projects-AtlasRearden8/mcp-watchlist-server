@@ -1,4 +1,9 @@
-node_modules/
-watchlist.json
-npm-debug.log*
+*.pyc
 .env
+.env.*
+.venv/
+__pycache__/
+dist/*.tmp
+node_modules/
+npm-debug.log*
+watchlist.json
